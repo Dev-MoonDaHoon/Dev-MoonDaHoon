@@ -1,7 +1,9 @@
+<div align=center> <img src="https://th.bing.com/th/id/OIP.r8CazZa-w7HI2WstabzQTQHaHa?w=214&h=214&c=7&r=0&o=5&pid=1.7"> 
 <h1>꾸준히 발전하는 개발자 문다훈 </h1>
 <h2>미래가 기대되는 개발자 문다훈 </h2>
-<h3>회사가 좋아하는 개발자 문다훈 <img src="https://th.bing.com/th/id/OIP.r8CazZa-w7HI2WstabzQTQHaHa?w=214&h=214&c=7&r=0&o=5&pid=1.7"> </h3> 
-
+<h3>회사가 좋아하는 개발자 문다훈  </h3> 
+</div>
+<br>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
