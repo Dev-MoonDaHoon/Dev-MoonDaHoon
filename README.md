@@ -1,4 +1,6 @@
-### BackEnd 주니어 개발자 문다훈입니다👋
+꾸준히 발전하는 BackEnd 개발자 문다훈
+미래가 기대되는 BackEnd 개발자 문다훈
+회사가 좋아하는 BackEnd 개발자 문다훈 
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
